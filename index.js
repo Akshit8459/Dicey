@@ -20,5 +20,5 @@ else if(r1<r2){
     document.lastElementChild.lastElementChild.firstElementChild.firstElementChild.innerHTML="Player 2 Wins!◄";
 }
 else{
-    document.lastElementChild.lastElementChild.firstElementChild.firstElementChild.innerHTML="♥It's a Draw!☻";
+    document.lastElementChild.lastElementChild.firstElementChild.firstElementChild.innerHTML="♥It's a Draw!";
 }
